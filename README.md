@@ -1,5 +1,5 @@
 # Africa_Parks_RS
-Turbidity variability and differences from monthly climatology for Bazaruto
+## Turbidity variability and differences from monthly climatology for Bazaruto
 
 Project experiments with MODIS-Aqua ocean color data to estimate turbidity in Bazaruto Archipelago National Park (south Mozambique) during a period of land-use change, 2005 to 2018. Methods are:
 
