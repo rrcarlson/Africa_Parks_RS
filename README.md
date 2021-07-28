@@ -1,7 +1,7 @@
 # Bazaruto_RS
 ## Turbidity variance and differences from monthly climatology for Bazaruto
 
-Project for Introduction to Remote Sensing class. Evaluate MODIS-Aqua ocean color data to estimate turbidity in Bazaruto Archipelago National Park (south Mozambique) during a period of land-use change, 2005 to 2018. Methods are:
+Project for Introduction to Remote Sensing class (Stanford EARTHSYS 241). Evaluate MODIS-Aqua ocean color data to estimate turbidity in Bazaruto Archipelago National Park (south Mozambique) during a period of land-use change, 2005 to 2018. Methods are:
 
 1. Extract raster files from NASA Ocean Color website for Rrs-667, 8-day temporal resolution, 2005 to 2018.
 2. Create mask for study region based on <100 m bathymetry (GEBCO)
